@@ -17,7 +17,7 @@
   width: 696px;
   color: $white_color;
   font-weight: 900;
-  font-size: 44px;
+  font-size: $hero_header;
   line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06em;
@@ -33,7 +33,7 @@
   height: 50px;
   font-family: 'Roboto';
   font-weight: 700;
-  font-size: 16px;
+  font-size: $button_text_size;
   line-height: 1.88;
   letter-spacing: 0.06em;
   color: $white_color;

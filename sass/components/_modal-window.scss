@@ -38,7 +38,7 @@
 .modal__header {
   margin-bottom: 12px;
   font-weight: 700;
-  font-size: 20px;
+  font-size: $modal_text;
   line-height: 1.15;
   text-align: center;
   letter-spacing: 0.03em;
@@ -52,7 +52,7 @@
   display: block;
   margin-bottom: 10px;
 
-  font-size: 12px;
+  font-size: $form_label_text;
   line-height: 1.16;
   letter-spacing: 0.01em;
   color: $mail_phone_desc;
@@ -96,7 +96,7 @@
   display: block;
   margin-bottom: 4px;
 
-  font-size: 12px;
+  font-size: $form_label_text;
   line-height: 1.16;
   letter-spacing: 0.01em;
   color: $mail_phone_desc;
@@ -166,7 +166,7 @@
 
 .checkbox__text {
   font-weight: 400;
-  font-size: 14px;
+  font-size: $main_text_size;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: $mail_phone_desc;
@@ -174,7 +174,7 @@
 
 .checkbox__link {
   font-weight: 400;
-  font-size: 14px;
+  font-size: $main_text_size;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: $web_hover_button_color;
@@ -195,7 +195,7 @@
   font-weight: 700;
   cursor: pointer;
 
-  font-size: 16px;
+  font-size: $button_text_size;
   line-height: 1.88;
   letter-spacing: 0.06em;
 

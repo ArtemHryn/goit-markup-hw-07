@@ -4,7 +4,7 @@
 
 .services__header {
   font-weight: 700;
-  font-size: 36px;
+  font-size: $additional_header_size;
   line-height: 1.16;
   text-align: center;
   margin-bottom: 50px;
@@ -32,7 +32,7 @@
   justify-content: center;
 
   font-weight: 700;
-  font-size: 14px;
+  font-size: $main_text_size;
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;

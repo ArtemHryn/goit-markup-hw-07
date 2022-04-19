@@ -34,7 +34,7 @@
   text-decoration: none;
   font-family: 'Roboto';
   font-weight: 500;
-  font-size: 14px;
+  font-size: $main_text_size;
   line-height: 16px;
   letter-spacing: 0.02em;
   color: $main_color;
@@ -98,7 +98,7 @@
   text-decoration: none;
   font-family: 'Roboto';
   font-weight: 500;
-  font-size: 14px;
+  font-size: $main_text_size;
   line-height: 16px;
   letter-spacing: 0.02em;
   color: $mail_phone_desc;

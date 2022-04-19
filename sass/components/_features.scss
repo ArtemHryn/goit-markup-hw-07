@@ -35,7 +35,7 @@ $features_pic: 'antenna', 'clock', 'diagram', 'astronaut';
 .features__header {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: $main_text_size;
   line-height: 1.14;
   text-transform: uppercase;
   margin-bottom: 10px;

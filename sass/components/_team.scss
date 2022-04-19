@@ -6,7 +6,7 @@
 
 .team__header {
   font-weight: 700;
-  font-size: 36px;
+  font-size: $additional_header_size;
   line-height: 1.16;
   text-align: center;
   margin-bottom: 50px;
@@ -34,7 +34,7 @@
 
 .team__name {
   font-weight: 500;
-  font-size: 16px;
+  font-size: $team_and_card;
   line-height: 1.18;
   text-align: center;
   margin-bottom: 10px;
@@ -42,7 +42,7 @@
 
 .team__position {
   font-weight: 400;
-  font-size: 16px;
+  font-size: $team_and_card;
   line-height: 1.18;
   text-align: center;
   color: $mail_phone_desc;

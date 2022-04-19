@@ -35,14 +35,14 @@
 
 .card-meta__name {
   font-weight: 700;
-  font-size: 18px;
+  font-size: $card_text;
   line-height: 2;
   letter-spacing: 0.06em;
   color: $main_color;
 }
 
 .card-meta__type {
-  font-size: 16px;
+  font-size: $team_and_card;
   line-height: 1.88;
   letter-spacing: 0.03em;
   color: $mail_phone_desc;
@@ -63,7 +63,7 @@
   transition: transform 250ms $animation;
 
   font-weight: 400;
-  font-size: 18px;
+  font-size: $card_text;
   line-height: 1.55;
   letter-spacing: 0.03em;
   color: $white_color;
